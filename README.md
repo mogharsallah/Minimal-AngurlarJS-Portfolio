@@ -18,12 +18,20 @@ Hey! this is my personal portfolio HTML Responsive Template made with **AngularJ
 
 Preview
 -------------
+
+1. Front page
 ![Front page](http://i.imgur.com/5nkVUpA.png)
 ----------
+
+2. Projects list
 ![Project list](http://i.imgur.com/Na1z5uB.png)
 ----------
+
+3. Project view
 ![Project view](http://i.imgur.com/9Jf506s.png)
 ----------
+
+4. Responsive layout
 ![Responsive view](http://i.imgur.com/O3FxvEH.png)
 
 ----------
