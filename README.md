@@ -7,9 +7,9 @@ Hey! this is my personal portfolio HTML Responsive Template made with **AngularJ
 
 > - All required JavaScript and CSS files are included.
 > - You can get the latest dependencies versions from:
-> [Jqury](https://jquery.com/)
-> [SVGeezy](http://benhowdle.im/svgeezy/)
-> [AngularJS](https://angularjs.org/)
+> [Jqury](https://jquery.com/),
+> [SVGeezy](http://benhowdle.im/svgeezy/),
+> [AngularJS](https://angularjs.org/) & 
 > [Skeleton](http://getskeleton.com/)
 
 
@@ -19,11 +19,11 @@ Hey! this is my personal portfolio HTML Responsive Template made with **AngularJ
 Preview
 -------------
 ![Front page](http://i.imgur.com/5nkVUpA.png)
-
+----------
 ![Project list](http://i.imgur.com/Na1z5uB.png)
-
+----------
 ![Project view](http://i.imgur.com/9Jf506s.png)
-
+----------
 ![Responsive view](http://i.imgur.com/O3FxvEH.png)
 
 ----------
@@ -38,7 +38,7 @@ How to use
 
  ----------
 For more details please refer to:
-[AngularJS](https://angularjs.org/)
+[AngularJS](https://angularjs.org/) and
 [Skeleton](http://getskeleton.com/)
 
 
