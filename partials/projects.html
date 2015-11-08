@@ -1,0 +1,22 @@
+<div class="search-panel row">
+  <span class="">SEARCH PROJECTS BY SKILL:</span><input ng-model="query" placeholder="Witchcraft" type="search" autofocus>
+  <a class="more-projects" target="_blank" href="http://designers.designcrowd.com/designer/109817/medhoover">MORE PROJECTS</a>
+</div>
+<div class="skills" >
+
+          <div class="hovereffect three columns" ng-repeat="project in projects | filter:query">
+              <a href="#/projects/{{project.index}}">
+              <img src="{{project.picture}}" alt="" title="{{project.name}}" class="img-responsive u-max-full-width"/>
+              <div class="overlay">
+                <h2>{{project.name}}</h2>
+                <p>
+                  <span>{{project.assets}}
+                  </span>
+                </p>
+              </div>
+              </a>
+          </div>
+
+    </div>
+  </div>
+</div>

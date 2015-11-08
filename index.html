@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="medApp">
+<head>
+
+  <!-- Basic Page Needs
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta charset="utf-8">
+  <title>Mouhamed GHARSALLAH</title>
+  <meta name="description" content="Hi! I’m Mouhamed GHARSALLAH. I Love tech startups and creative marketing. Software Engineering is my academic degree and my skills covers web development, mobile development and graphic design. I like doing freelance on many platforms like DesignCrowd and Fiverr.">
+  <meta name="author" content="Mouhamed GHARSALLAH">
+
+  <!-- Mobile Specific Metas
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link href='https://fonts.googleapis.com/css?family=Work+Sans:300,400,500' rel='stylesheet' type='text/css'>
+
+  <!-- CSS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  
+  <link rel="stylesheet" href="css/style.css">
+
+
+
+  <!-- JS
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <script src="js/svgeezy.min.js"></script>
+  <script src="js/jquery.min.js"></script>
+  <script src="js/angular.min.js"></script>
+  <script src="js/angular-animate.min.js"></script>
+  <script src="js/angular-route.min.js"></script>
+  <script src="js/angular-resource.min.js"></script>
+  <script src="js/app.js"></script>
+
+
+
+  <!-- Favicon
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+  <link rel="icon" type="image/png" href="img/favicon.png">
+
+</head>
+<body>
+
+  <!-- Primary Page Layout
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+<div class="content">
+  <div class="container">
+    <div class="header">
+      <div class="row">
+        <div class="offset-by-five column two columns">
+          <img class="u-max-full-width" src="img/logo.svg" class="mobile" style="max-width:40%"/>
+        </div>
+      </div>
+    </div>
+      <div class="navigation row" style="letter-spacing:0.2rem;">
+        <div class="">
+          <ul>
+            <li>HI! MY NAME IS <span style=" white-space: nowrap;"> MOUHAMED GHARSALLAH</span></li>
+
+            <li><a href="#/">Brief</a></li>
+
+            <li><a href="#/academics">Academics</a></li>
+
+            <li><a href="#/assets">Assets</a></li>
+
+            <li><a href="#/projects">Projects</a></li>
+
+            <li><a href="#/contact">contact</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="view-container">
+      <div ng-view class="view-frame" ></div>
+      </div>
+
+    </div>
+  </div>
+  <script>
+  		svgeezy.init(false, 'png');
+  </script>
+
+<!-- End Document
+  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+</body>
+</html>

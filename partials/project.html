@@ -1,0 +1,14 @@
+<div class="row" ng-repeat="project in projects" ng-show="project.index==id">
+<div class="six columns">
+    <h3 style="display:inline">{{project.name}}</h3>
+  <h5>{{project.assets}}</h5>
+  <a href="{{project.adress}}">#{{project.addressname}}</a><br>
+  <p>
+    {{project.about}}
+  </p>
+</div>
+<div class="six columns">
+  <img src="{{project.picture}}" alt="{{project.name}}" title="{{project.name}}" class="imagepopup u-max-full-width"/>
+</div>
+
+ </div>

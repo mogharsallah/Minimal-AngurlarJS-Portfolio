@@ -1,0 +1,177 @@
+[
+  {
+    "index": 1,
+    "picture": "img/1.jpg",
+    "name": "CeliaLib Mobile App",
+    "assets": "Symfony, Ionic & AngularJS",
+    "tags": [
+      "php",
+      "css",
+      "html",
+      "json",
+      "angularjs",
+      "angular js",
+      "Symfony",
+      "ionic",
+      "apache cordova"
+    ],
+    "address": "https://github.com/medhoover/celialib",
+    "addressname": "On Github",
+    "about": "A mobile Application that helps peoples with celiac disease to check  the celiac approval of different products with easy search and instant fetching. The App helps them as well by providing detailed celiac free recipes with filtering based on different details.Using REST, the Ionic framework based App communicates with Symfony 2.7 PHP web server with offer different administrative tools for moderators like FOSUserBundle. Available on Android & iOS. You can find all open source files on GitHub.\r\n"
+  },
+
+  {
+    "index": 2,
+    "picture": "img/2.png",
+    "name": "BonPrixTunisie",
+    "assets": "PHP, Wordpress, HTMLDomParse",
+    "tags": [
+      "php",
+      "css",
+      "html",
+      "wordpress",
+      "html dom parse"
+    ],
+    "address": "#",
+    "addressname": "",
+    "about": "Price comparison and review blog website for technology products in the Tunisian market, A personal project which I made in my first student engineering year. The site uses a custom HTMLDomParser which analysis all Tunisian e-commerce websites and retrieve prices. The site was also a technology articles reference regarding the Tunisian market. The project was held due to courses and other projects.\r\n"
+  },
+
+  {
+    "index": 3,
+    "picture": "img/7.png",
+    "name": "TETRAHEDRON Property",
+    "assets": "Adobe Illustrator",
+    "tags": [
+      "Illustrator",
+      "design",
+      "art",
+      "graphic",
+      "graphique"
+    ],
+    "address": "http://www.designcrowd.com/design/3524325",
+    "addressname": "On DesignCrowd",
+    "about": "A Branding Identity project for a private property solution company in the US the design request was to create and illustration for water energy and nature, the three symbols of the company. Designed on Adobe Illustrator.\r\n"
+  },
+
+  {
+    "index": 4,
+    "picture": "img/10.png",
+    "name": "IEEE ENIC AESS",
+    "assets": "Adobe Illustrator",
+    "tags": [
+      "Illustrator",
+      "design",
+      "art",
+      "graphic",
+      "graphique"
+    ],
+    "address": "http://sites.ieee.org/sb-enicarthage/",
+    "addressname": "On IEEE",
+    "about": "Branding logo for IEEE ENICarthage Aerospace & Electronic Systems Society SBC. Inspired from aeronautic and aerospace. Designed with Adobe Illustrator.\r\n"
+  },
+
+  {
+    "index": 5,
+    "picture": "img/12.png",
+    "name": "Training Poster",
+    "assets": "Adobe Photoshop",
+    "tags": [
+      "Photoshop",
+      "design",
+      "art",
+      "graphic",
+      "graphique",
+      "print"
+    ],
+    "address": "#",
+    "addressname": "",
+    "about": "Print poster for a photoshop training held in ENICarthage engineering school. The design was made by Adobe Photoshop.\r\n"
+  },
+
+  {
+    "index": 6,
+    "picture": "img/6.png",
+    "name": "Hostro UK",
+    "assets": "Adobe Illustrator",
+    "tags": [
+      "Illustrator",
+      "design",
+      "art",
+      "graphic",
+      "graphique",
+      "print"
+    ],
+    "address": "http://www.hostro.uk/",
+    "addressname": "Hostro.uk",
+    "about": "Logo design for a hosting company based in the UK. The design concept is to illustrate the services as fast, reliable & advanced.\r\n"
+  },
+
+  {
+    "index": 7,
+    "picture": "img/4.png",
+    "name": "Balance & Beyond",
+    "assets": "Adobe Illustrator",
+    "tags": [
+      "Illustrator",
+      "design",
+      "art",
+      "graphic",
+      "graphique"
+    ],
+    "address": "#",
+    "addressname": "",
+    "about": "Identity for a health coaching a center.\r\n"
+  },
+
+  {
+    "index": 8,
+    "picture": "img/5.png",
+    "name": "KYC Flyer",
+    "assets": "Adobe Photoshop",
+    "tags": [
+      "Photoshop",
+      "design",
+      "art",
+      "graphic",
+      "graphique"
+    ],
+    "address": "#",
+    "addressname": "",
+    "about": "Event Flyer \r\n"
+  },
+
+  {
+    "index": 9,
+    "picture": "img/3.png",
+    "name": "OMAJ Identity",
+    "assets": "Adobe illustrator",
+    "tags": [
+      "illustrator",
+      "design",
+      "art",
+      "graphic",
+      "graphique"
+    ],
+    "address": "#",
+    "addressname": "",
+    "about": "Logo design for a media player. \r\n"
+  },
+
+  {
+    "index": 10,
+    "picture": "img/8.png",
+    "name": "Spoka",
+    "assets": "Adobe illustrator",
+    "tags": [
+      "illustrator",
+      "design",
+      "art",
+      "graphic",
+      "graphique"
+    ],
+    "address": "#",
+    "addressname": "",
+    "about": "Logo design for a clothing company. \r\n"
+  }
+]
